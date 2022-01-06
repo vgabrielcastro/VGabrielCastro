@@ -1,4 +1,5 @@
 ## Oii sou o Gabriel Castro, Sou Dev BackEnd e nas horas vagas sou fullStack ⚡😄!
+- 🌱Atualmente estou aprendendo React/React Native e DevOps
 <div align="center">
   <a href="https://github.com/VGabrielCastro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VGabrielCastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -10,7 +11,7 @@
   <img align="center" alt="Gabs-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gabs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabs-VueJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vueJs/vueJs-original.svg">
+  <img align="center" alt="Gabs-VueJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Gabs-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   
 </div>
@@ -24,6 +25,3 @@
   ![Snake animation](https://github.com/VGabrielCastro/VGabrielCastro/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-  <! 
-- 🌱 I’m currently learning ...
