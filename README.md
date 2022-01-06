@@ -1,5 +1,4 @@
 ## Oii sou o Gabriel Castro, Sou Dev BackEnd e nas horas vagas sou fullStack ⚡😄!
-- 🌱Atualmente estou aprendendo React/React Native e DevOps
 <div align="center">
   <a href="https://github.com/VGabrielCastro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VGabrielCastro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -15,7 +14,7 @@
   <img align="center" alt="Gabs-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   
 </div>
-  
+  - 🌱Atualmente estou aprendendo React/React Native e DevOps
   ##
  
 <div> 
