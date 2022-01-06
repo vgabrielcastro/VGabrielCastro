@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Me Gabriel Castro, Sou Dev BackEnd e nas horas vagas sou fullStack haha⚡😄!</h1>
+<h1 align="center">Hi👋Me Gabriel Castro, Sou Dev BackEnd e nas horas vagas sou fullStack haha⚡😄!</h1>
 <br>
 
 <p align = "center">
