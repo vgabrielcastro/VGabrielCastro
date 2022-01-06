@@ -14,8 +14,8 @@
   <img align="center" alt="Gabs-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   
 </div>
-  - 🌱Atualmente estou aprendendo React/React Native e DevOps
-  ##
+  
+  ##🌱Atualmente estou aprendendo React/React Native e DevOps
  
 <div> 
   <a href = "mailto:vini.gabriell@outlook.com"><img src="https://img.shields.io/badge/-Microsoft_Outlook-%23333?style=for-the-badge&logo=Microsoft_Outlook&logoColor=white" target="_blank"></a>
