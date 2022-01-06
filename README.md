@@ -1,9 +1,15 @@
-## Oii sou o Gabriel Castro, Sou Dev BackEnd e nas horas vagas sou fullStack ⚡😄!
+<h1 align="center">Hi 👋,Sou o Gabriel Castro, Sou Dev BackEnd e nas horas vagas sou fullStack ⚡😄!</h1>
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=vgabrielcastro&show_icons=true&theme=dark" width = 400>
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VGabrielCastro&layout=compact&langs_count=7&theme=dark"/>
+ </p>
 <h3>🌱Atualmente estou aprendendo React/React Native e DevOps</h3>
 <div align="center">
   <a href="https://github.com/vgabrielcastro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VGabrielCastro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VGabrielCastro&layout=compact&langs_count=7&theme=dark"/>
+  
+  
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
