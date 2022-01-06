@@ -4,8 +4,9 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=vgabrielcastro&show_icons=true&theme=dark" width = 400>
   <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VGabrielCastro&layout=compact&langs_count=7&theme=dark"/>
+  <h3>🌱Atualmente estou aprendendo React/React Native e DevOps</h3>
  </p>
-<h3>🌱Atualmente estou aprendendo React/React Native e DevOps</h3>
+
 <div align="center">
   <a href="https://github.com/vgabrielcastro">
   
