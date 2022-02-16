@@ -2,10 +2,10 @@
 <br>
 
 <p align = "center">
-  <img src = "https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width = 125>
+  <img src = "https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width = 100>
   <img src = "https://github-readme-stats.vercel.app/api?username=vgabrielcastro&show_icons=true&theme=dark" width = 400>
   <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VGabrielCastro&layout=compact&langs_count=7&theme=dark"/>
-  <h3>🌱Atualmente estou aprendendo React/React Native e DevOps</h3> <img align="right" alt="Gabs-prog" width="380" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+  <h3>🌱Atualmente estou aprendendo React/React Native e DevOps</h3> <img align="right" alt="Gabs-prog" width="330" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
   
   
  </p>
