@@ -6,7 +6,7 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=vgabrielcastro&show_icons=true&theme=dark" width = 400>
   <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VGabrielCastro&layout=compact&langs_count=7&theme=dark" />
 </div>
-  <h3>🌱Atualmente estou aprendendo React/React Native e DevOps</h3> 
+  <h3>🌱Atualmente estou aprendendo Salesforce e DevOps</h3> 
   <img align="right" alt="Gabs-prog" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
   
     
