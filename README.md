@@ -34,7 +34,7 @@
   **Tools**
   
   <img align="center" title="Git" alt="Gabs-Git" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-   <img align="center" title="Intellij IDE" alt="Gabs-Intellij" height="45" width="45" src="https://raw.githubusercontent.com/nomi9995/intellij-merge-tool/HEAD/media/logo.png">
+   <img align="center" title="Intellij IDE" alt="Gabs-Intellij" height="47" width="48" src="https://raw.githubusercontent.com/nomi9995/intellij-merge-tool/HEAD/media/logo.png">
     <img align="center" title="VSCode" alt="Gabs-VSCode" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   </div>
   
