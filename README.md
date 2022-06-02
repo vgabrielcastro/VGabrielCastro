@@ -7,13 +7,11 @@
   <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgabrielCastro&layout=compact&langs_count=7&theme=dark" />
 </div>
   <h3>🌱Atualmente estou aprendendo React e Oracle ONE-Next Education/Alura</h3> 
+  
+<div style="display: inline_block"><br>
 
   - - -
-<img src=img/badge_one.png width="150">&nbsp;&nbsp;&nbsp;&nbsp;<img src=img/badge_js.png width="150">
-- - -
-     
-<div style="display: inline_block"><br>
-  
+
   **Programming Languages**
   
   
@@ -45,6 +43,9 @@
    <img align="center" title="Intellij IDE" alt="Gabs-Intellij" height="47" width="48" src="https://raw.githubusercontent.com/nomi9995/intellij-merge-tool/HEAD/media/logo.png">
     <img align="center" title="VSCode" alt="Gabs-VSCode" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   </div>
+  
+   - - -
+<img src=img/badge_one.png width="150">&nbsp;&nbsp;&nbsp;&nbsp;<img src=img/badge_js.png width="150">
   
   ##
  
