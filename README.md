@@ -7,11 +7,11 @@
   <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgabrielCastro&layout=compact&langs_count=7&theme=dark" />
 </div>
   <h3>🌱Atualmente estou aprendendo React e Oracle ONE-Next Education/Alura</h3> 
-  ___
 
-<img src=img/badge_one.png width="150">&nbsp;&nbsp;<img src=img/one.png width="200">&nbsp;&nbsp;<img src=img/badge_js.png width="150">
-  
-    
+  - - -
+<img src=img/badge_one.png width="150">&nbsp;&nbsp;&nbsp;&nbsp;<img src=img/badge_js.png width="150">
+- - -
+     
 <div style="display: inline_block"><br>
   
   **Programming Languages**
@@ -21,11 +21,11 @@
   
   <img align="center" title="Java" alt="Gabs-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
-  <img align="center" title="HTML" alt="Gabs-HTML" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" title="HTML5" alt="Gabs-HTML" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
-  <img align="center" title="CSS" alt="Gabs-CSS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" title="CSS3" alt="Gabs-CSS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img title="JavaScript" align="center" alt="Gabs-JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img title="JavaScript(ECM6)" align="center" alt="Gabs-JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
   <img align="center" title="React" alt="Gabs-React" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
