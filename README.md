@@ -1,4 +1,4 @@
-<h1 align="center"> Oii👋sou o Gabriel Castro, Sou Dev BackEnd e nas horas vagas sou fullStack haha⚡😄!</h1>
+<h2 align="center"> Oii👋sou o Gabriel Castro, Sou Dev BackEnd e nas horas vagas sou fullStack haha⚡</h2>
 <br>
 <div align="center">
   <a href="https://github.com/vgabrielcastro">   
