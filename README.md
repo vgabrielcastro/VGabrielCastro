@@ -7,7 +7,9 @@
   <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgabrielCastro&layout=compact&langs_count=7&theme=dark" />
 </div>
   <h3>🌱Atualmente estou aprendendo React e Oracle ONE-Next Education/Alura</h3> 
-  <img align="right" alt="Gabs-prog" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+  ___
+
+<img src=img/badge_one.png width="150">&nbsp;&nbsp;<img src=img/one.png width="200">&nbsp;&nbsp;<img src=img/badge_js.png width="150">
   
     
 <div style="display: inline_block"><br>
