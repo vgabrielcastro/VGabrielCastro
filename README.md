@@ -14,23 +14,23 @@
 
   **Programming Languages**
   
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" title="NodeJs" alt="Gabs-Ts" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" title="Java" alt="Gabs-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" title="HTML5" alt="Gabs-HTML" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" title="CSS3" alt="Gabs-CSS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img title="JavaScript(ECM6)" align="center" alt="Gabs-JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" title="React" alt="Gabs-React" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" title="MySQL" alt="Gabs-MySQL" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" title="Docker" alt="Gabs-Docker" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" title="MongoDB" alt="Gabs-MongoDB" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   
 </div>
@@ -38,13 +38,19 @@
   <div style="display: inline_block"><br>
    
   **Tools**
-  
+    
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" title="Git" alt="Gabs-Git" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img align="center" title="Intellij IDE" alt="Gabs-Intellij" height="47" width="48" src="https://raw.githubusercontent.com/nomi9995/intellij-merge-tool/HEAD/media/logo.png">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" title="VSCode" alt="Gabs-VSCode" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   </div>
   
    - - -
+  
+  **Badge's Oracle One Next Education**
+  
 <img src=img/badge_one.png width="150">&nbsp;&nbsp;&nbsp;&nbsp;<img src=img/badge_js.png width="150">
   
   ##
