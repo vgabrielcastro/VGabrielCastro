@@ -51,7 +51,7 @@
   
   **Badge's Oracle One Next Education**
   
-<img src=img/badge_one.png width="150">&nbsp;&nbsp;&nbsp;&nbsp;<img src=img/badge_js.png width="150">
+<img src=img/badge_one.png width="169">&nbsp;&nbsp;&nbsp;&nbsp;<img src=img/badge_js.png width="169">
   
   ##
  
