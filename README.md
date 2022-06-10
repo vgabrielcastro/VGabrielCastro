@@ -6,10 +6,9 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=vgabrielcastro&show_icons=true&theme=dark" width = 400>
   <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgabrielCastro&layout=compact&langs_count=7&theme=dark" />
 </div>
-  <h3>🌱Atualmente estou aprendendo React e Oracle ONE-Next Education/Alura</h3> 
   
-<div style="display: inline_block"><br>
-
+  <h3>🌱Atualmente estou aprendendo ReactJs e Oracle ONE-Next Education/Alura</h3> 
+  
   - - -
 
   **Programming Languages**
@@ -49,7 +48,7 @@
   
    - - -
   
-  **Badge's Oracle One Next Education**
+  **Badge's [Oracle](oracle.com/br/one) One Next Education**
   
 <img src=img/badge_one.png width="169">&nbsp;&nbsp;&nbsp;&nbsp;<img src=img/badge_js.png width="169">
   
