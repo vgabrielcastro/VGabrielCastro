@@ -7,7 +7,7 @@
   <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgabrielCastro&layout=compact&langs_count=7&theme=dark" />
 </div>
   
-  <h3>🌱Atualmente estou aprendendo ReactJs e Oracle ONE-Next Education/Alura</h3> 
+  <h3>🌱Atualmente estou aprendendo ReactJs e fazendo curso da Oracle ONE-Next Education/Alura</h3> 
   
   - - -
 
