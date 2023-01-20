@@ -59,7 +59,7 @@
 <div>
   
   <a href = "mailto:vini.gabriell@outlook.com"><img src="https://img.shields.io/badge/-Microsoft_Outlook-%23333?style=for-the-badge&logo=Microsoft_Outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vini-gabriel-castro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/vgabriel-castro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
   
