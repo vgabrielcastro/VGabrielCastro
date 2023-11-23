@@ -11,8 +11,6 @@
   **Programming Languages**
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" title="NodeJs" alt="Gabs-Ts" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" title="NestJs" alt="Gabs-nest" height="38" width="38" src="https://api.iconify.design/logos-nestjs.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" title="React" alt="Gabs-React" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
