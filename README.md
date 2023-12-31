@@ -2,30 +2,31 @@
 <br>
 <div align="center">
   <a href="https://github.com/vgabrielcastro">   
-  <img src = "https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width = 100>
+<!--   <img src = "https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width = 100> -->
   <img src = "https://github-readme-stats.vercel.app/api?username=Vgabrielcastro&show_icons=true&theme=dark" width = 400>
   <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vgabrielcastro&layout=compact&langs_count=7&theme=dark" />
 </div>  
+    
   - - -
 
   **Programming Languages**
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" title="NestJs" alt="Gabs-nest" height="38" width="38" src="https://api.iconify.design/logos-nestjs.svg">
+  <img align="center" title="NestJs" alt="nest" height="38" width="38" src="https://api.iconify.design/logos-nestjs.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" title="React" alt="Gabs-React" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" title="React" alt="React" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img align="center" title="TypeScript" alt="Gabs-TypeScript" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+   <img align="center" title="TypeScript" alt="TypeScript" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img title="JavaScript(ECM6)" align="center" alt="Gabs-JavaScript" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" title="HTML5" alt="Gabs-HTML" height="35" width="35" src="https://camo.githubusercontent.com/d458b55282fc167f5a189b35e54f966acdd5100d9331d90bea6416f2805e7f95/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2e737667">
+  <img align="center" title="HTML5" alt="HTML" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" title="MySQL" alt="Gabs-MySQL" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" title="MySQL" alt="MySQL" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" title="Docker" alt="Gabs-Docker" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" title="Docker" alt="Docker" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" title="MongoDB" alt="Gabs-MongoDB" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" title="Kubernetes" alt="kubernetes" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
   
 </div>
 
