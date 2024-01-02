@@ -37,6 +37,9 @@
 <a href="https://www.linkedin.com/in/vgabriel-castro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<hr>
+<br>
+
  ## Badge's [Oracle](oracle.com/br/one) One Next Education
   <img align="left" src=img/badge_one.png width="84">
   <img align="left" src=img/badge_js.png width="84">
