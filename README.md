@@ -8,12 +8,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VGabrielcastro&theme=dracula&hide_border=true" />
-</div>
-
-<br>
-
 ## 🚀 Sobre Mim
 
 ```typescript
