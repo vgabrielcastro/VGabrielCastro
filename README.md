@@ -15,7 +15,7 @@ const aboutMe = {
   name: "Vinicius Gabriel",
   role: "💻 Full Stack & Mobile Developer",
   education: "⚛️ Computer Science - In progress",
-  ageAndLocation: ["23", "🌎 Brazil"],
+  ageAndLocation: ["25", "🌎 Brazil"],
   passions: ["⚛️ React", "📱 React Native", "🚀 Next.js", "🦅 NestJS"],
   goals: "🎯 Criar experiências digitais incríveis e inovadoras",
 };
