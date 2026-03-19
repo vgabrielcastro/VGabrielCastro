@@ -26,13 +26,13 @@ const aboutMe = {
 ### Frontend & Mobile
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nextjs,tailwind,styledcomponents,androidstudio,swift" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nextjs,tailwind,styledcomponents,androidstudio,swift,expo" />
 </div>
 
 ### Backend & DevOps
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,docker,kubernetes,aws" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,docker,kubernetes,aws,go,supabase" />
 </div>
 
 ### Ferramentas & Versionamento
@@ -50,11 +50,7 @@ const aboutMe = {
 
 <br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VGabrielcastro&theme=dracula&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
-</div>
-
-## 🏆 Certificações
+## 🏆 Certificações - Alura 2024
 
 <div align="center">
   <img src="img/badge_one.png" width="120">
